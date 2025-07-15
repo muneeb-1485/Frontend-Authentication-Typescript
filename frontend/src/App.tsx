@@ -9,7 +9,11 @@ import { Errorpage } from './pages/Simple Pages/ErrorPage'
 import { ProtectedRoute } from './pages/Simple Pages/ProtectedRoute'
 
 
+<<<<<<< Updated upstream
 // Hjweklnjskdvnsldkjvnkjl
+=======
+//hello this is abdullah ayaz
+>>>>>>> Stashed changes
  
 const route = createBrowserRouter([
     {
